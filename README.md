@@ -47,5 +47,5 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/kmahad
-- LinkedIn: linkedin.com/in/k-mohammed-ahad-035907323
+- LinkedIn: https://www.linkedin.com/in/k-mohammed-ahad-035907323
 - Email: kmahad8050@gmail.com
