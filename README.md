@@ -59,12 +59,12 @@
           Leverages natural language processing techniques to translate text across multiple languages accurately and efficiently.
         </p>
         <p>
-          <img src="https://skillicons.dev/icons?i=python,tensorflow" height="28" />
+          <img src="https://skillicons.dev/icons?i=python,fastapi" height="28" />
         </p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/NLP-4EAA25?style=flat-square&logo=google&logoColor=white" />
+          <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         </p>
       </div>
     </td>
