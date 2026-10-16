@@ -100,8 +100,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmahad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmahad&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmahad&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmahad&theme=tokyonight" />
 
 </div>
 
@@ -117,17 +117,17 @@
 
 <div align="center">
 
-[![Ahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kmahad&theme=tokyo-night&area=true&hide_border=false&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ahad's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmahad&theme=tokyonight)](https://github.com/vn7n24fzskq/github-profile-summary-cards)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Productive Hours
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kmahad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ahad's Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kmahad&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzskq/github-profile-summary-cards)
 
 </div>
 
